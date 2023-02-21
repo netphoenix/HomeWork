@@ -12,3 +12,10 @@ negative_count = (num1 < 0) + (num2 < 0) + (num3 < 0)
 
 # выводим результат
 print(f"Из введенных чисел {positive_count} положительных и {negative_count} отрицательных.")
+
+x = true
+y = false
+z = false
+if not x ot y:
+    print(1)
+elif not x or not y and z:
