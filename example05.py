@@ -9,5 +9,6 @@ negative_count = (num1 < 0) + (num2 < 0) + (num3 < 0)
 
 
 
+
 # выводим результат
 print(f"Из введенных чисел {positive_count} положительных и {negative_count} отрицательных.")
