@@ -19,3 +19,4 @@ z = false
 if not x ot y:
     print(1)
 elif not x or not y and z:
+
